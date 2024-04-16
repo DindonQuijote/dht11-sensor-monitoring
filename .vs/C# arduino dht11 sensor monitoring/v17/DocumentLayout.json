@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6467A813-F45C-4F52-A6F5-CAC231DC73AF}|C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj|c:\\users\\gayprom\\source\\repos\\c# arduino dht11 sensor monitoring\\c# arduino dht11 sensor monitoring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6467A813-F45C-4F52-A6F5-CAC231DC73AF}|C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj|solutionrelative:c# arduino dht11 sensor monitoring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6467A813-F45C-4F52-A6F5-CAC231DC73AF}|C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj|C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\c# arduino dht11 sensor monitoring\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6467A813-F45C-4F52-A6F5-CAC231DC73AF}|C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj|solutionrelative:c# arduino dht11 sensor monitoring\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|C# arduino dht11 sensor monitoring||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6467A813-F45C-4F52-A6F5-CAC231DC73AF}|C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj|C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\c# arduino dht11 sensor monitoring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6467A813-F45C-4F52-A6F5-CAC231DC73AF}|C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj|solutionrelative:c# arduino dht11 sensor monitoring\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\Form1.cs",
+              "RelativeDocumentMoniker": "C# arduino dht11 sensor monitoring\\Form1.cs",
+              "ToolTip": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\Form1.cs [Design]",
+              "RelativeToolTip": "C# arduino dht11 sensor monitoring\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:05:48.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "C# arduino dht11 sensor monitoring\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\Form1.Designer.cs",
+              "RelativeToolTip": "C# arduino dht11 sensor monitoring\\Form1.Designer.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAlwAsBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T01:06:17.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\Form1.cs",
+              "RelativeDocumentMoniker": "C# arduino dht11 sensor monitoring\\Form1.cs",
+              "ToolTip": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\Form1.cs",
+              "RelativeToolTip": "C# arduino dht11 sensor monitoring\\Form1.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAALcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:18:55.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C# arduino dht11 sensor monitoring",
+              "DocumentMoniker": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj",
+              "RelativeDocumentMoniker": "C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj",
+              "ToolTip": "C:\\Users\\GaYprom\\source\\repos\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj",
+              "RelativeToolTip": "C# arduino dht11 sensor monitoring\\C# arduino dht11 sensor monitoring.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T00:51:49.172Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

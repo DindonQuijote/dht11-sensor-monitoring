@@ -1,0 +1,10 @@
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\bin\Debug\C# arduino dht11 sensor monitoring.exe.config
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\bin\Debug\C# arduino dht11 sensor monitoring.exe
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\bin\Debug\C# arduino dht11 sensor monitoring.pdb
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C# arduino dht11 sensor monitoring.csproj.AssemblyReference.cache
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C__arduino_dht11_sensor_monitoring.Form1.resources
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C__arduino_dht11_sensor_monitoring.Properties.Resources.resources
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C# arduino dht11 sensor monitoring.csproj.GenerateResource.cache
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C# arduino dht11 sensor monitoring.csproj.CoreCompileInputs.cache
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C# arduino dht11 sensor monitoring.exe
+C:\Users\GaYprom\source\repos\C# arduino dht11 sensor monitoring\C# arduino dht11 sensor monitoring\obj\Debug\C# arduino dht11 sensor monitoring.pdb
